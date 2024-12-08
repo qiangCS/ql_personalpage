@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Postdoctoral research fellow
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -42,7 +42,7 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/](https://scholar.google.com/citations?user=R5EaahoAAAAJ&hl=en
   - icon: academicons/orcid
     url: https://orcid.org/
 
