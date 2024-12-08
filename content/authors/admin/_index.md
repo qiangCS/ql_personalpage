@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Li Qiang
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Qiang Li
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Qiang
+last_name: Li
 
 # Status emoji
 status:
