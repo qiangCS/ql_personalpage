@@ -52,7 +52,7 @@ interests:
   - Survival Analysis
 
 education:
-  - area: PhD Mathematics & Statistics
+  - area: Ph.D. Mathematics & Statistics
     institution: Georgia State University
     date_start: 2020-01-01
     date_end: 2024-12-31
@@ -61,23 +61,23 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: M.S Electrical & Computer Engineering
+    institution: Georgia Institute of Technology
+    date_start: 2019-01-01
+    date_end: 2020-01-01
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.5/4.0
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    institution: Shanghai Maritime University
+    date_start: 2012-09-01
+    date_end: 2016-07-01
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.6/4.0
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
