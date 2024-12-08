@@ -3,7 +3,7 @@
 title: Li Qiang
 
 # Name pronunciation (optional)
-name_pronunciation: Qiang Li
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Qiang
@@ -24,8 +24,8 @@ role: Postdoctoral research fellow
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Emory University
+    url: https://med.emory.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-I am an research fellow in the school of medicine at Emory University. My research focuses on leveraging machine learning, data science, and computational techniques to address challenges in healthcare and biomedical applications.
+I am a research fellow in the school of medicine at Emory University. My research focuses on leveraging machine learning, data science, and computational techniques to address challenges in healthcare and biomedical applications.
