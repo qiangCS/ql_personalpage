@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Postdoctoral research fellow
+role: Postdoctoral Research Fellow
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -57,7 +57,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: M.S in Electrical & Computer Engineering, 2020
+  - area: M.S. in Electrical & Computer Engineering, 2020
     institution: Georgia Institute of Technology
     date_start: 2019-01-01
     date_end: 2020-01-01
