@@ -9,9 +9,6 @@ name_pronunciation:
 first_name: Qiang
 last_name: Li
 
-** **# Status emoji****
-<!-- status: -->
-** ** ** ** icon: ☕️  ****-->
 
 # Is this the primary user of the site?
 superuser: true
