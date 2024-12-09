@@ -31,28 +31,28 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:qiangli.ce@gmail.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/qiangCS
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/cs-qiangli
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=R5EaahoAAAAJ&hl=en
   - icon: academicons/orcid
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
+  - AI for health
   - Medical Image Processing
   - Survival Analysis
 
 education:
-  - area: Ph.D. Mathematics & Statistics
+  - area: Ph.D. Mathematics & Statistics, 2024
     institution: Georgia State University
     date_start: 2020-01-01
     date_end: 2024-12-31
@@ -61,7 +61,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: M.S Electrical & Computer Engineering
+  - area: M.S Electrical & Computer Engineering, 2020
     institution: Georgia Institute of Technology
     date_start: 2019-01-01
     date_end: 2020-01-01
@@ -72,12 +72,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Shanghai Maritime University
-    date_start: 2012-09-01
-    date_end: 2016-07-01
-    summary: |
-      GPA: 3.6/4.0
+
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
