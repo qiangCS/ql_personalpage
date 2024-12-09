@@ -33,10 +33,6 @@ profiles:
   - icon: at-symbol
     url: 'mailto:qiangli.ce@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/qiangCS
   - icon: brands/linkedin
@@ -52,7 +48,7 @@ interests:
   - Survival Analysis
 
 education:
-  - area: Ph.D. Mathematics & Statistics, 2024
+  - area: Ph.D. in Mathematics & Statistics, 2024
     institution: Georgia State University
     date_start: 2020-01-01
     date_end: 2024-12-31
@@ -61,7 +57,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: M.S Electrical & Computer Engineering, 2020
+  - area: M.S in Electrical & Computer Engineering, 2020
     institution: Georgia Institute of Technology
     date_start: 2019-01-01
     date_end: 2020-01-01
